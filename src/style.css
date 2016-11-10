@@ -1,3 +1,10 @@
 .button {
-  width: 200px;
+  color: white;
+  padding: 10px 20px;
+}
+.createButton {
+  background-color: blue;
+}
+.createButton:hover {
+  background-color: black;
 }
